@@ -4,7 +4,7 @@ ReconPilot is a Python-based reconnaissance automation tool that streamlines the
 
 It accepts a domain or IP address as input, performs target validation and cleanup, runs a full TCP port sweep with Nmap, identifies open ports, and automatically launches follow-up enumeration steps based on detected services.
 
-The goal of this project is to reduce repetitive manual recon steps and create a more structured, repeatable workflow for beginner-to-intermediate network enumeration.
+The goal of this project is to reduce repetitive manual recon steps and create a more structured, repeatable workflow for beginner network enumeration.
 
 ---
 
